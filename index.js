@@ -64,6 +64,6 @@ console.log(age);
 
 /*********** 👇 Concatenation Sting ko jodna 👇*******/
 
-let firstName = "Ankit";
+let firstName = " Ankit";
 let lastName = "Yaduvanshi";
 console.log(firstName + " " + lastName);
